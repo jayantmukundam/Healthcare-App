@@ -1,0 +1,1 @@
+export const base = "http://192.168.43.109:9090/api/";

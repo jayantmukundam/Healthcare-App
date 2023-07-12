@@ -1,0 +1,23 @@
+.header-border{
+    border: 0.14vw solid;
+    margin-bottom: 0.1vw;
+}
+
+.ion-select-style{
+    display: flex;
+    justify-content: center;
+}
+
+.data-style{
+    color: black;
+    border: 0.14vw solid;
+}
+
+.head-style{
+    background-color: black;
+    color: white;
+    height: 4vw;
+    /* margin-top: 0.5vw; */
+    margin-left: auto;
+    margin-right: auto;
+}

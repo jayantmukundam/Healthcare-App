@@ -1,0 +1,7 @@
+{
+  "name": "FieldWorker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,10 @@
+
+.input-width {
+    width: 200px;
+}
+
+.card-display {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
